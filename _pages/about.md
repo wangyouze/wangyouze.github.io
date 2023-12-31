@@ -9,6 +9,12 @@ Youze Wang is a Ph.D. student at the Hefei University of Technology. He received
 - Graph neural networks
 
 ### Publications
+1. Exploring Transferability of Multimodal Adversarial Samples for Vision-Language Pre-training Models with Contrastive Learning. **Youze Wang**, Wenbo Hu, Yinpeng Dong, Hanwang Zhang, Richang Hong. arxiv [pdf](https://arxiv.org/abs/2308.12636)
+2. Iterative Adversarial Attack on Image-guided Story Ending Generation. **Youze Wang**, Wenbo Hu, Richang Hong. IEEE TMM 2023. [pdf](https://ieeexplore.ieee.org/document/10366855/)
+3. Efficient graph deep learning in tensorflow with tf_geometric. Jun Hu, Shengsheng Qian, Quan Fang, **Youze Wang**, Quan Zhao, Huaiwen Zhang, Changsheng Xu. ACM MM 2021. [pdf](https://dl.acm.org/doi/abs/10.1145/3474085.3478322)
+4. Fake news detection via knowledge-driven multimodal graph convolutional networks. **Youze Wang**, Shengsheng Qian, Jun Hu, Quan Fang, Changsheng Xu. ICMR 2020. [pdf](https://dl.acm.org/doi/abs/10.1145/3372278.3390713)
+   
+   
 
 ### Education
 Hefei University of Technology
@@ -21,6 +27,7 @@ Hefei University of Technology
 BEng in Computer Science and Technology, September 2014 - June 2018
 
 ---
+Last Update: 2023-12-31
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
