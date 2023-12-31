@@ -1,3 +1,25 @@
+
+
+### Biography
+Youze Wang is a Ph.D. student at the Hefei University of Technology. He received a master's degree and a bachelor's degree from the same university. He has published several papers in leading conferences and journals, including ICMR, and IEEE Trans. on Multimodal. His current research interests include the robustness of multimodal deep learning and the adversarial attack and defense of large multimodal models.
+
+### Interests
+- The robustness of multimodal deep learning
+- Adversarial attack and defense of multimodal models
+- Graph neural networks
+
+### Publications
+
+### Education
+Hefei University of Technology
+PhD Candidate of Computer Science and Technology, September 2022 - now
+Advisor: Richang Hong and Wenbo Hu
+Hefei University of Technology
+MEng in Computer Science and Technology, September 2018 - June 2021
+Advisor: Changsheng Xu
+Hefei University of Technology
+BEng in Computer Science and Technology, September 2014 - June 2018
+
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
