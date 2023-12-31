@@ -17,13 +17,20 @@ Youze Wang is a Ph.D. student at the Hefei University of Technology. He received
    
 
 ### Education
-Hefei University of Technology
+**Hefei University of Technology**
+
 PhD Candidate of Computer Science and Technology, September 2022 - now
+
 Advisor: Richang Hong and Wenbo Hu
-Hefei University of Technology
+
+**Hefei University of Technology**
+
 MEng in Computer Science and Technology, September 2018 - June 2021
+
 Advisor: Changsheng Xu
-Hefei University of Technology
+
+**Hefei University of Technology**
+
 BEng in Computer Science and Technology, September 2014 - June 2018
 
 ---
